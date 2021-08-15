@@ -1,0 +1,815 @@
+    1  sudo su
+    2  sudo s
+    3  sudo apt-get install su
+    4  sudo apt-get update
+    5  sudo su
+    6  sudo ./vmware-install.pl 
+    7  sudo su
+    8  sudo su 
+    9  su
+   10  cd ~/aaa/Download
+   11  cd /home/aaa/Download
+   12  cd /home/aaa/
+   13  su
+   14  su 
+   15  sudo apache2 -v
+   16  cron -e
+   17  sudo cron -e
+   18  crontab -e
+   19  nano crontab -e
+   20  sudo nano crontab -e
+   21  su
+   22  cd Downloads/
+   23  ls
+   24  mv armen-key.pem /home/aaa
+   25  cd
+   26  ls
+   27  chmod armen-key.pem 
+   28  chmod 600 armen-key.pem 
+   29  ls -l
+   30  sudo ssh -i ubuntu@3.137.162.75
+   31  ssh -i ubuntu@3.137.162.75
+   32  ssh ubuntu@3.137.162.75
+   33  ssh -i armen-key.pem ubuntu@3.137.162.75
+   34  ssh armen-key.pem ubuntu@3.137.162.75
+   35  cd .ssh/
+   36  ls
+   37  ssh -i armen-key.pem ubuntu@3.137.162.75
+   38  cd
+   39  clear
+   40  curl --version
+   41  apache2 --help
+   42  apache2 localhost
+   43  sudo ufw app list
+   44  sudo systemctl status apache2
+   45  hostname
+   46  hostname -i
+   47  curl -4 icanhazip.com
+   48  crontab -e
+   49  nano crontab -e
+   50  cd /tmp
+   51  ls
+   52  cd cron_date
+   53  cd
+   54  sudo nano crontab -e
+   55  su
+   56  su 
+   57  sudo update-ca-certificates 
+   58  ssh 3.137.162.75
+   59  ssh -i armen-key.pem 3.137.162.75
+   60  sudo chmod 0600 armen-key.pem 
+   61  ssh -i armen-key.pem 3.137.162.75
+   62  sudo nano 
+   63  sudo nano /etc/ssh/sshd_config 
+   64  ssh -i armen-key.pem 3.137.162.75
+   65  sudo systemctl restart sshd
+   66  ssh -i armen-key.pem 3.137.162.75
+   67  chmod 400 armen-key.pem 
+   68  ssh -i "armen-key.pem"ec2-user@3.137.162.75
+   69  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+   70  chmod 600 armen-key.pem 
+   71  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+   72  clear
+   73  asdasdasd
+   74  clear
+   75  cd /etc/cron.daily/
+   76  ls
+   77  cd ..
+   78  cd cron.d
+   79  ls
+   80  nano /etc/crontab
+   81  crontab -e
+   82  nano crontab -e
+   83  crontab -e
+   84  nano /etc/logrotate.conf
+   85  cd /etc/logrotate.d/
+   86  ls
+   87  nano /etc/logrotate.conf
+   88  sudo nano /etc/logrotate.conf
+   89  sudo vi /etc/logrotate.conf
+   90  nano crontab -e
+   91  crontab -e
+   92  sudo crontab -e
+   93  cat /home/aaa/cron_date
+   94  curl 127.0.1.1
+   95  sudo crontab -e
+   96  sudo crontab -l
+   97  c
+   98  cd
+   99  crontab -e
+  100  select-editor
+  101  crontab -e
+  102  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+  103  x
+  104  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+  105  systemctr status zabbix
+  106  systemctl status zabbix
+  107  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+  108  sudo usermod -d /var/www/ftpuser
+  109  ls /var/www/ftpuser
+  110  ls /var/www/
+  111  ls /var/www/html
+  112  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+  113  sudo apt-intall filezilla
+  114  sudo apt intall filezilla
+  115  sudo apt install filezilla
+  116  ftp 3.
+  117  ftp 3.137.162.75
+  118  sudo apt-get install ftp
+  119  ftp 3.137.162.75
+  120  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+  121  ftp 3.137.162.75
+  122  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+  123  ftp 3.137.162.75
+  124  ssh -i "armen-key.pem" ec2-user@3.137.162.75
+  125  ftp 3.137.162.75
+  126  sudo crontab -e
+  127  cat /var/log/syslog | grep cron
+  128  sudo cat /var/log/syslog | grep cron
+  129  crontab -e
+  130  sudo crontab -e
+  131  ls
+  132  cat apache2.log 
+  133  touch apache2_info_index.txt
+  134  nano apache2_info_index.txt 
+  135  cd /etc/httpd/
+  136  cat /etc/apache2/apache2.conf 
+  137  nano  /etc/apache2/apache2.conf 
+  138  sudo cd /etc/httpd/
+  139  cd /etc/httpd/
+  140  cat /var/www/html/index.html
+  141  nano /var/www/html/index.html
+  142  crontab -l
+  143  sudo crontab -l
+  144  sudo cat /var/log/syslog | grep cron
+  145  sudo service cron reload
+  146  sudo cat /var/log/syslog | grep cron
+  147  curl localhost
+  148  curl apache2
+  149  Aug  9 16:30:01 debian CRON[22334]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+  150  crontab -e
+  151  sudo crontab -e
+  152  crontab -e
+  153  cd /etc/logrotate.d/
+  154  ls
+  155  cat apache2 
+  156  touch rotate_apache2log
+  157  sudo touch rotate_apache2log
+  158  sudo nano rotate_apache2log
+  159  ls
+  160  cat /home/aaa
+  161  ls /home/aaa
+  162  sudo nano rotate_apache2log
+  163  history
+  164  cd /home/aaa
+  165  ls
+  166  nano bash_history.txt 
+  167  sudo nano bash_history.txt 
+  168  cp /etc/logrotate.d/rotate_apache2log  /home/aaa/
+  169  ls
+  170  ftp 3.137.162.75
+  171  clear
+  172  ls
+  173  cd /Download
+  174  cd Downloads
+  175  cd
+  176  sudo apt-get insall git
+  177  sudo apt-get install git
+  178  git -v
+  179  git --version
+  180  clear
+  181  mkdir test-git
+  182  cd test-git/
+  183  mkdir repo
+  184  cd repo/
+  185  git --version
+  186  git init 
+  187  cd .git
+  188  ls
+  189  ls -la 
+  190  cd ..
+  191  nano test_file
+  192  git status
+  193  git add test_file
+  194  git status
+  195  git commit -m "test file is added "
+  196  git clearcommit -m "test file is added "
+  197  clear
+  198  git pull
+  199  git clone https://github.com/arkocharyan/bdg-test.git
+  200  git pull
+  201  ls
+  202  cd bdg-test/
+  203  ls
+  204  git pull
+  205  ls -la
+  206  git pull
+  207  ls -la
+  208  nano file1
+  209  nano /gitignor
+  210  nano .gitignor
+  211  nano file2
+  212  git status 
+  213  nano .gitignor
+  214  nano file2
+  215  mv .gitignor .gitignore
+  216  ls
+  217  ls -la
+  218  git status 
+  219  git pull
+  220  ls -la
+  221  rv file2
+  222  rm file2
+  223  git pull
+  224  ls -la
+  225  git pull
+  226  ls -la
+  227  rm .gitignore 
+  228  git pull
+  229  ls -la
+  230  nano .gitignore
+  231  nano file2
+  232  ls
+  233  ls -la
+  234  rm file2
+  235  git pull
+  236  ls -la
+  237  rm .gitignore 
+  238  git pull
+  239  ls -la
+  240  git diff
+  241  git pull
+  242  ls -la
+  243  nano file1
+  244  git pull
+  245  nano test_file_armen
+  246  git push test_file_armen
+  247  git add.
+  248  git add..
+  249  git add.
+  250  git --h
+  251  git add
+  252  git add .
+  253  git push 
+  254  ssh -i "armen-key.pem" ec2-user@18.117.146.145
+  255  ftp 
+  256  clear
+  257  ls
+  258  cd test-git/
+  259  mkdir branch
+  260  cd branch/
+  261  git
+  262  git status \
+  263  git status 
+  264  git branch
+  265  ls
+  266  nano test 
+  267  [A
+  268  nano test 
+  269  ls
+  270  git add.
+  271  git add . 
+  272  git add test
+  273  git push
+  274  git status 
+  275  cd
+  276  cd test-git/
+  277  git status 
+  278  ls
+  279  cd repo
+  280  git status
+  281  cd /branch
+  282  cd .. /branch
+  283  cd ..| /branch
+  284  cd .. | /branch
+  285  cd ..
+  286  cd branch/
+  287  git status
+  288  history
+  289  git init
+  290  ls -la
+  291  git branch 
+  292  git status
+  293  git add.
+  294  git status
+  295  git add test
+  296  git status
+  297  branch 
+  298  gitbranch 
+  299  git branch main
+  300  sudo git branch main
+  301  git branch 
+  302  git branch master 
+  303  git branch main
+  304  git branch -m  main
+  305  git branch -m main
+  306  git branch 
+  307  git status 
+  308  git branch 
+  309  git commit -m
+  310  git commit -n
+  311  git push -u origin main
+  312  git push -u origin owner 
+  313  git push -u origin mine
+  314  git push -u origin main
+  315  git push -u origin 
+  316  git branch
+  317  git push test 
+  318  history
+  319  git add.
+  320  git add..
+  321  git add test
+  322  git status 
+  323  git push 
+  324  git push test
+  325  git add .
+  326  git commit -m "test"
+  327  git push
+  328  ls -la
+  329  nano test2
+  330  git add .
+  331  git status
+  332  git commit -m "test2"
+  333  git diff
+  334  git commit -m "test2"
+  335  git config  --global
+  336  git config  --global AAArmen
+  337  git config  --global user.email "arm.simonyan2011@gmail.com"
+  338  git config  --global user.name "AAArmen"
+  339  git commit -m "test2"
+  340  git push 
+  341  git branche 
+  342  git branch  
+  343  git push 
+  344  git push test2
+  345  git push -u origin test2
+  346  git push -u origin master
+  347  sudo git push -u origin master
+  348  git push -u origin test2
+  349  git push -u master test2
+  350  git push -u origin master
+  351  git remote set-url origin https://github.com/AAArmen/branch.git
+  352  git remote set-url origin git@github.com:AAArmen/branch.git
+  353  git push test2
+  354  git branch main
+  355  git branch 
+  356  git push test2
+  357  git checkout main
+  358  git branch 
+  359  git push test2
+  360  git push -u origin main
+  361  git log
+  362  git push -u origin main
+  363  git push 
+  364  git push test2
+  365  git push -u origin HEAD
+  366  git push -u origin master
+  367  git branche 
+  368  git branche
+  369  git branch
+  370  ls
+  371  git push test2
+  372  git push 
+  373  git remote add AAArmen https://github.com/AAArmen/branch.git
+  374  git push 
+  375  git remote add branch https://github.com/AAArmen/branch.git
+  376  git push 
+  377  git remote add origin https://github.com/AAArmen/branch.git
+  378  git push 
+  379  git push test2
+  380  git branch -M main
+  381  git push -u origin main
+  382  git push 
+  383  history
+  384  git clone https://github.com/arkocharyan/bdg-branch
+  385  git branche new_branch
+  386  git branch new_branch
+  387  git branch 
+  388  git checkout new_branch 
+  389  ls
+  390  git branch 
+  391  cd
+  392  cd test-git/
+  393  ls
+  394  cd branch/
+  395  ls
+  396  cd bdg-branch/
+  397  ls
+  398  git branch
+  399  git branch new_branche 
+  400  git chencout new_branch
+  401  git checkout new_branche 
+  402  nano teeest 
+  403  ls
+  404  git add .
+  405  git commit -m 
+  406  git commit -m "teeest"
+  407  git push -u origin new_branche 
+  408  git checkout master
+  409  git br
+  410  git checkout main
+  411  git merge new_branche 
+  412  ls
+  413  git push 
+  414  git branch 
+  415  git checkout new_branche 
+  416  git push 
+  417  clear
+  418  cd..
+  419  cd ..
+  420  ls
+  421  git push 
+  422  git push bdg-branch/
+  423  git branch 
+  424  git checkout master
+  425  git push 
+  426  git push ls
+  427  ls
+  428  git push bdg-branch/
+  429  git checkout main
+  430  git main
+  431  git branch
+  432  git push bdg-branch/
+  433  nano pppop
+  434  git push pppop
+  435  git push -u origin main
+  436  git push pppop
+  437  ls
+  438  git push pppop
+  439  git push -u origin new_branch 
+  440  git checkout new_branch 
+  441  git push pppop
+  442  history
+  443  git remote add main https://github.com/AAArmen/branch.git
+  444  git remote add new_branch https://github.com/AAArmen/branch.git
+  445  git push pppop
+  446  git push 
+  447  git branch
+  448  git clone https://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@github.com/arkocharyan/test.git
+  449  ls
+  450  git commit 
+  451  git commit pppop 
+  452  history 
+  453  git commit -m  pppop 
+  454  git commit -m pppop 
+  455  git branch -u origin/new_branch main
+  456  git branch 
+  457  git checko
+  458  git branch 
+  459  clear
+  460  cd
+  461  cd test-git/branch/
+  462  ls
+  463  git push 
+  464  git branch
+  465  git push origin HEAD
+  466  git push pppop
+  467  git status
+  468  git add .
+  469  git status
+  470  git push 
+  471  git push origin HEAD:main
+  472  git push 
+  473  git push -u origin main
+  474  git push 
+  475  git push pppop
+  476  git remote set-url origin https://github.com/AAArmen/branch.git
+  477  git push pppop
+  478  sudo apt update
+  479  sudo apt-get update
+  480  sudo apt upgrade 
+  481  sudo apt-get update
+  482  sudo apt install ca-certificates
+  483  sudo apt-get update
+  484  cd etc/ssl/certs
+  485  cd /etc/ssl/certs
+  486  nano 
+  487  cd
+  488  cd /etc
+  489  cd /apt
+  490  cd apt
+  491  nano sources.list
+  492  sudo nano sources.list
+  493  sudo apt-get update
+  494  sudo nano sources.list
+  495  sudo apt-get update
+  496  sudo nano sources.list
+  497  sudo apt-get update
+  498  cd ..
+  499  cd /apt
+  500  cd apt/sources.list.d/
+  501  ls
+  502  cd ..
+  503  cd apt.conf.d/
+  504  ls
+  505  cd 
+  506  touch /etc/apt/apt.conf.d/99verify-peer.conf && echo >>/etc/apt/apt.conf.d/99verify-peer.conf "Acquire { https::Verify-Peer false }"
+  507  sudo touch /etc/apt/apt.conf.d/99verify-peer.conf && echo /etc/apt/apt.conf.d/99verify-peer.conf "Acquire { https::Verify-Peer false }"
+  508  sudo touch /etc/apt/apt.conf.d/99verify-peer.conf
+  509  sudo echo >>/etc/apt/apt.conf.d/99verify-peer.conf "Acquire { https::Verify-Peer false }"
+  510  sudo nano /etc/apt/apt.conf.d/99verify-peer.conf 
+  511  sudo echo /etc/apt/apt.conf.d/99verify-peer.conf 
+  512  sudo apt-get update
+  513  sudo rm /etc/apt/apt.conf.d/99verify-peer.conf 
+  514  sudo apt-get update
+  515  cd /etv/apt/
+  516  cd etc/apt/
+  517  cd /etc/apt/
+  518  ls
+  519  nano sources.list
+  520  sudo nano sources.list
+  521  sudo apt-get update
+  522  sudo nano sources.list
+  523  sudo apt-get update
+  524  sudo nano sources.list
+  525  sudo apt-get update
+  526  sudo apt-get install -y ca-certificates
+  527  apt install ca-certificates 
+  528  cd
+  529  apt install ca-certificates 
+  530  sudo apt install ca-certificates 
+  531  wudo apt-get --allow-unauthenticated upgrade
+  532  sudo apt-get --allow-unauthenticated upgrade
+  533  sudo apt-get update
+  534  sudo apt install --reinstall ca-certificates
+  535  sudo apt-get update
+  536  sudo apt-get upgrade
+  537  clera
+  538  clear
+  539  history
+  540  ssh -i "armen-key.pem" ec2-user@18.117.146.145
+  541  ssh -i "armen-key.pem" ec2-user@3.133.155.100
+  542  ftp 1.133.155.100
+  543  history 
+  544  ftp 1.133.155.100
+  545  ftp 3.133.155.100
+  546  ssh -i "armen-key.pem" ec2-user@3.133.155.100
+  547  ftp 3.133.155.100
+  548  ssh -i "armen-key.pem" ec2-user@3.133.155.100
+  549  ftp 3.133.155.100
+  550  ssh -i "armen-key.pem" ec2-user@3.133.155.100
+  551  ftp 3.133.155.100
+  552  ssh -i "armen-key.pem" ec2-user@3.133.155.100
+  553  ftp 3.133.155.100
+  554  ssh -i "armen-key.pem" ec2-user@3.133.155.100
+  555  ftp 3.133.155.100
+  556  ssh -i "armen-key.pem" ec2-user@3.133.155.100
+  557  cd
+  558  ls
+  559  sudo mv armen-key.pem armen-key_old.pem 
+  560  ls
+  561  clear
+  562  sudo mv armen-key_old.pem armen-key.pem 
+  563  ls
+  564  crontab -e
+  565  history
+  566  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  567  sudo service vsftpd status
+  568  nano armen-key.pem 
+  569  sudo mv armen-key.pem armen-key_old.pem 
+  570  ls
+  571  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  572  ls -la
+  573  chmod 600 armen-key
+  574  chmod 600 armen-key.pem 
+  575  ls -l
+  576  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  577  chmod 400 armen-key.pem 
+  578  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  579  chmod 600 armen-key.pem 
+  580  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  581  ssh ec2-user@18.188.184.110
+  582  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  583  ssh -i "armen-key_old.pem" ec2-user@18.188.184.110
+  584  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  585  cd .ssh/
+  586  ls
+  587  ssh -i "armen-key.pem" ubuntu@18.188.184.110
+  588  cd
+  589  ssh -i "armen-key.pem" ubuntu@18.188.184.110
+  590  ssh -i "armen-key.pem" us-east-2b@18.188.184.110
+  591  sudo service ssh restart
+  592  cd .ssh/
+  593  ls
+  594  cd
+  595  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  596  ssh -i "armen-key.pem" ec2-user@instance-id
+  597  ssh -i "armen-key.pem" ec2-user@i-0251f8233937e6c22
+  598  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  599  cd .ssh/
+  600  ls
+  601  cd
+  602  ls
+  603  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  604  sudo apt instal ssh
+  605  sudo apt install ssh
+  606  sudo apt reinstall ssh
+  607  cd .ssh/
+  608  ls
+  609  cd
+  610  ssh -v -i armen-key.pem ubuntu@18.188.184.110
+  611  touch /home/aaa/.ssh/id_rsa
+  612  touch /home/aaa/.ssh/id_rsa.pub
+  613  cat /home/aaa/armen-key.pem >> /home/aaa/.ssh/id_rsa
+  614  cat /home/aaa/armen-key.pud >> /home/aaa/.ssh/id_rsa.pud
+  615  cat /home/aaa/armen-key.pub >> /home/aaa/.ssh/id_rsa.pub
+  616  cd .ssh/
+  617  ls
+  618  sudo rm id_rsa.pud
+  619  ls
+  620  cd
+  621  cdmod 600 id_rsa
+  622  chmod 600 id_rsa
+  623  cd .ssh/
+  624  chmod 600 id_rsa
+  625  chmod 600 id_rsa.pub 
+  626  cd
+  627  ssh -v -i armen-key.pem ubuntu@18.188.184.110
+  628  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  629  ls -la
+  630  sudo service ssh restart
+  631  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  632  ssh ec2-user@18.188.184.110
+  633  ssh -i "armen-key.pem" ec2-user@18.188.184.110
+  634  cat .ssh/id_rsa.pub
+  635  mv armen-key.pem /home/aaa/Downloads/
+  636  ls
+  637  ssh -i "armen-key" ec2-user@18.188.184.110
+  638  clear
+  639  mv /home/aaa/Downloads/new-key.pem /home/aaa/
+  640  ls
+  641  chmod 600 new-key.pem 
+  642  ls -l
+  643  ssh -i new-key.pem ec2-user@3.22.63.75
+  644  cd .ssh/
+  645  nano known_hosts 
+  646  [A
+  647  nano known_hosts 
+  648  cd
+  649  ssh -i new-key.pem ec2-user@3.22.63.75
+  650  ssh -i new-key.pem ec2-user@ec2-3-22-63-75.us-east-2.compute.amazonaws.com
+  651  ssh -i new-key.pem ec2-user@3.22.63.75
+  652  cat new-key.pem 
+  653  cd Downloads/
+  654  cd ttt/
+  655  cat armen-key
+  656  cat armen-key.pem
+  657  cat armen-key_old.pem
+  658  cat armen-key.pub
+  659  cd
+  660  ls -la
+  661  cd .ssh/
+  662  ls
+  663  rm id_rsa
+  664  rm id_rsa.pub 
+  665  ls
+  666  cd
+  667  ssh -i new-key.pem ec2-user@3.22.63.75
+  668  ssh -i new-key.pem ubuntu@3.22.63.75
+  669  ftp 3.22.63.75
+  670  ssh -i new-key.pem ubuntu@3.22.63.75
+  671  ftp 3.22.63.75
+  672  ssh -i new-key.pem ubuntu@3.22.63.75
+  673  ftp 3.22.63.75
+  674  ssh -i new-key.pem ubuntu@3.22.63.75
+  675  ftp 3.22.63.75
+  676  ssh -i new-key.pem ubuntu@3.22.63.75
+  677  cd
+  678  ls
+  679  cd test-git/
+  680  ls
+  681  history
+  682  ls
+  683  ls repo/
+  684  cd repo/
+  685  ls
+  686  cd
+  687  cd test-git/
+  688  ls
+  689  ls branch/
+  690  ls -l branch/
+  691  mkdir new_repo
+  692  cd new_repo/
+  693  git init
+  694  ls
+  695  ls-la
+  696  ls -la
+  697  nano author.txt
+  698  git add ..
+  699  git add .
+  700  git status 
+  701  git commit -m "name of author"
+  702  git branche
+  703  git branch
+  704  ls
+  705  mv author.txt new_repo/
+  706  ls
+  707  cd
+  708  cd test-git/new_repo/new_repo/
+  709  ls
+  710  git status 
+  711  git add .
+  712  git commit -m "name of author"
+  713  git push 
+  714  cd ..
+  715  rm new_repo/
+  716  sudo rm -r new_repo/
+  717  ls
+  718  git clon 
+  719  git clon https://github.com/AAArmen/new_repo.git
+  720  git clone https://github.com/AAArmen/new_repo.git
+  721  ls
+  722  cd new_repo/
+  723  nano author.txt
+  724  git add .
+  725  git commit -m "name of author"
+  726  git push
+  727  git config --global user.name AAArmen
+  728  git config --global user.emali arm.simonyan2011@gmail.com
+  729  git remote add origin https://github.com/AAArmen/new_repo.git
+  730  git branche
+  731  git branch
+  732  git branch -M main
+  733  git branch
+  734  git push -u origin main
+  735  ls
+  736  cd
+  737  cd test-git/new_repo/
+  738  ls
+  739  rm new_repo/
+  740  sudo rm -r new_repo/
+  741  ls
+  742  git clone https://github.com/AAArmen/new_repo.git
+  743  cd new_repo/
+  744  nano author
+  745  cd..
+  746  git add .
+  747  git status
+  748  git commit -m "name of the author"
+  749  git push 
+  750  git push \
+  751  git push 
+  752  git branch
+  753  git branch new_branch
+  754  git branch
+  755  git log
+  756  git history
+  757  git checkout new_branch 
+  758  git branch
+  759  ls
+  760  cat history > test-git/new_repo/new_repo
+  761  cat history > test-git/new_repo/new_repo/bash_history1.txt
+  762  history
+  763  cat history >> test-git/new_repo/new_repo/bash_history1.txt
+  764  cat history >> /home/aaa/test-git/new_repo/new_repo/bash_history1.txt
+  765  cat history >> /home/aaa/test-git/new_repo/new_repo/ bash_history1.txt
+  766  cat history >> /home/aaa/test-git/new_repo/new_repo/bash_history1.txt
+  767  cat /home/aaa/history
+  768  cat history history.txt
+  769  cat history h
+  770  cat history 
+  771  history 
+  772  cp history 
+  773  history > bash_history_1
+  774  ls
+  775  cat bash_history1
+  776  nano bash_history1
+  777  rm bash_history1
+  778  sudo rm -r bash_history1
+  779  rm bash_history_1
+  780  history > bash_history_1
+  781  nano bash_history_1
+  782  nano bash_history_1.txt
+  783  nano bash_history1.txt
+  784  rm bash_history1.txt
+  785  ls
+  786  git add bash_history_1 
+  787  git status 
+  788  git push 
+  789  git push --set-upstream origin new_branch 
+  790  git push 
+  791  ls
+  792  git status
+  793  git push 
+  794  git push bash_history_1
+  795  sudo git push bash_history_1
+  796  git push 
+  797  ls
+  798  git branch
+  799  git chechout master
+  800  git checkout master
+  801  ls
+  802  git branch\
+  803  git branch
+  804  git checkout new_branch 
+  805  git commit -m "Bash_history"
+  806  ls
+  807  git push
+  808  git branch 
+  809  git checkout master
+  810  git merge new_branch 
+  811  git push
+  812  git branch another_branch
+  813  git checkout another_branch 
+  814  ls
+  815  history > new_bash_history.txt
